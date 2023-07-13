@@ -1,2 +1,2 @@
 # gl-manus
-The first centimanus hand using OpenGL
+The first centimane grasp using OpenGL.
