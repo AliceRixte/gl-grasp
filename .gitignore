@@ -52,4 +52,4 @@ bld/
 [Ll]ogs/
 # Add this line
 out/
-
+vcpkg_installed/
